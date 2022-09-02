@@ -1,3 +1,6 @@
+# This project is abandoned
+Use https://github.com/acquia/gajira-login instead
+
 # Jira Login
 Used to store credentials for later use by other Jira Actions
 
